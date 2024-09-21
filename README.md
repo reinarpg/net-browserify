@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../assets/banner.png" />
+  <img src="https://github.com/reinarpg/.github/raw/main/assets/banner.png" />
 </p>
 <p align=center>
   <img src="https://img.shields.io/badge/Made%20with-Javascript-%23f7df1e?style=for-the-badge&color=F1C40F" alt="fully in javascript"/>
@@ -16,7 +16,7 @@
 
 `net` module for browserify, with a websocket server proxy.
 
-# Guide
+## Guide
 Just require this module or map this module to the `net` module with [Browserify](https://github.com/substack/node-browserify).
 ```
 $ npm install net-browserify
